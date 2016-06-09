@@ -1,0 +1,29 @@
+.change_img{
+	margin: 0;
+	display: inline-block;
+	width: 100%;
+	background-size: cover;
+	background-position: center center;
+	-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover; 
+}
+
+
+
+.textwrap{
+	position: absolute;
+    left:0px;  
+    width:100%;  
+    background-color:black;  
+    font-family: 'tahoma';  
+    font-size:15px;  
+    opacity:0.6; /* transparency */  
+    filter:alpha(opacity=60);
+}
+
+p .heading, .quote{
+	padding:10px;  
+    margin:0px; 
+}
